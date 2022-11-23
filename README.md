@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my finished projects are available at [https://philiprutberg.com](https://philiprutberg.com) -->
 
-- 📫 How to reach me **philiprutberg00@gmail.com**
+- 📫 You can reach me at **philiprutberg00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
