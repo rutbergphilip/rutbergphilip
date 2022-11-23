@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently attempting to learn **other backend languages to advance further in my professional career!**
 
-- 👨‍💻 All of my finished projects are available at [https://philiprutberg.com](https://philiprutberg.com)
+<!-- - 👨‍💻 All of my finished projects are available at [https://philiprutberg.com](https://philiprutberg.com) -->
 
 - 📫 How to reach me **philiprutberg00@gmail.com**
 
