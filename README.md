@@ -31,7 +31,7 @@ Scandinavia's former largest World of Warcraft boosting community.
 *Discontinued as of 2022.*
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/769522185978511400/1222989564990328963/Gif.gif?ex=661838ca&is=6605c3ca&hm=151a53cf4ce24884d1e95fba2383c8910100ef6b7777dc5a79a4829441ba728f&" width="150" height="auto">
+    <img src="https://cdn.discordapp.com/attachments/769522185978511400/1222989564990328963/Gif.gif?ex=661838ca&is=6605c3ca&hm=151a53cf4ce24884d1e95fba2383c8910100ef6b7777dc5a79a4829441ba728f&" width="150" height="auto" alt="Bloodlust Boosting logo">
 </div>
 
 ## Let's Connect! 📡
