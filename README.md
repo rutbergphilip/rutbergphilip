@@ -31,7 +31,7 @@ Scandinavia's former largest World of Warcraft boosting community.
 *Discontinued as of 2022.*
 
 <div align="center">
-    <img src="https://github.com/rutbergphilip/rutbergphilip/blb.gif" width="150" height="auto" alt="Bloodlust Boosting logo">
+    <img src="https://raw.githubusercontent.com/rutbergphilip/rutbergphilip/main/blb.gif" width="150" height="auto" alt="Bloodlust Boosting logo">
 </div>
 
 ## Let's Connect! 📡
