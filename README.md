@@ -26,7 +26,7 @@ A benchmarking tool to test the performance between the two most popular Nodejs 
 	<br/>
 	<br/>
 	<br/>
-	<img src="https://github.com/rutbergphilip/RedisRacer/blob/main/logo_transparent.png?raw=true" width="150" alt="project-logo">
+	<a href="https://github.com/rutbergphilip/RedisRacer"><img src="https://github.com/rutbergphilip/RedisRacer/blob/main/logo_transparent.png?raw=true" width="180" alt="project-logo"></a>
 	<br/>
 	<br/>
 	<br/>
@@ -37,7 +37,7 @@ A benchmarking tool to test the performance between the two most popular Nodejs 
 A highly complex collectible tracking solution for the players of World of Warcraft.
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/990017404505575455/1222990762900193392/WoWCollector-Logo-D.png?ex=661839e7&is=6605c4e7&hm=b98afcc6821707ccb6db72a75d82f3367dd225e828a0c8605c1dbd0be29fbea1&=&format=webp&quality=lossless&width=1922&height=1154" width="500" height="auto">
+    <a href="https://wowcollector.io/"><img src="https://media.discordapp.net/attachments/990017404505575455/1222990762900193392/WoWCollector-Logo-D.png?ex=661839e7&is=6605c4e7&hm=b98afcc6821707ccb6db72a75d82f3367dd225e828a0c8605c1dbd0be29fbea1&=&format=webp&quality=lossless&width=1922&height=1154" width="500" height="auto"></a>
 </div>
 
 - **Bloodlust Boosting**:
