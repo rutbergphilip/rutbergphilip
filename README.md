@@ -18,6 +18,20 @@ I'm a Software Engineer, TypeScript enthusiast, and tech visionary. I craft digi
 
 Embark on a voyage through my most stellar projects:
 
+- **RedisRacer**:
+
+A benchmarking tool to test the performance between the two most popular Nodejs Redis libraries.
+
+<div align="center">
+	<br/>
+	<br/>
+	<br/>
+	<img src="https://github.com/rutbergphilip/RedisRacer/blob/main/logo_transparent.png?raw=true" width="150" alt="project-logo">
+	<br/>
+	<br/>
+	<br/>
+</div>
+
 - **WoW Collector**:
 
 A highly complex collectible tracking solution for the players of World of Warcraft.
