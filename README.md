@@ -34,10 +34,10 @@ A benchmarking tool to test the performance between the two most popular Nodejs 
 
 - **WoW Collector**:
 
-A highly complex collectible tracking solution for the players of World of Warcraft.
+A highly powerful collectable tracking solution for World of Warcraft players.
 
 <div align="center">
-    <a href="https://wowcollector.io/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/WoWCollector.png" width="150" height="auto"></a>
+    <a href="https://staging.wowcollector.io/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/WoWCollector.png" width="150" height="auto"></a>
 </div>
 
 - **Bloodlust Boosting**:
