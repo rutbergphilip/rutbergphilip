@@ -34,7 +34,7 @@ A benchmarking tool to test the performance between the two most popular Nodejs 
 
 - **WoW Collector**:
 
-A powerful collectable tracking solution for World of Warcraft players.
+A tracking tool for World of Warcraft collectables.
 
 *Under development, still in beta. Uptime may vary.*
 
