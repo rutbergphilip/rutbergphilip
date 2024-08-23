@@ -32,6 +32,14 @@ A benchmarking tool to test the performance between the two most popular Nodejs 
 	<br/>
 </div>
 
+- **Project Foxxy**:
+
+A custom built scheduling solution with an admin dashboard for raid management and discord bot for user signups.
+
+<div align="center">
+    <a href="https://projectfoxxy.eu/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/FoxxyLogo.png" width="150" height="auto"></a>
+</div>
+
 - **WoW Collector**:
 
 A tracking tool for World of Warcraft collectables.
