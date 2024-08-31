@@ -18,6 +18,16 @@ I'm a Software Engineer, TypeScript enthusiast, and tech visionary. I craft digi
 
 Embark on a voyage through my most stellar projects:
 
+- **WoW Collector**:
+
+A tracking tool for World of Warcraft collectables.
+
+*Under development, still in beta. Uptime may vary.*
+
+<div align="center">
+    <a href="https://wowcollector.io/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/wowcollector_logo_icon_transparent.png" width="150" height="auto"></a>
+</div>
+
 - **RedisRacer**:
 
 A benchmarking tool to test the performance between the two most popular Nodejs Redis libraries.
@@ -38,16 +48,6 @@ A custom built scheduling solution with an admin dashboard for raid management a
 
 <div align="center">
     <a href="https://projectfoxxy.eu/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/FoxxyLogo.png" width="150" height="auto"></a>
-</div>
-
-- **WoW Collector**:
-
-A tracking tool for World of Warcraft collectables.
-
-*Under development, still in beta. Uptime may vary.*
-
-<div align="center">
-    <a href="https://staging.wowcollector.io/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/WoWCollector.png" width="150" height="auto"></a>
 </div>
 
 - **Bloodlust Boosting**:
