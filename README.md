@@ -23,7 +23,7 @@ Embark on a voyage through my most stellar projects:
 A tracking tool for World of Warcraft collectables.
 
 <div align="center">
-    <a href="https://wowcollector.io/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/wowcollector_logo_icon_transparent.png" width="150" height="auto"></a>
+	    <img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/wowcollector_logo_icon_transparent.png" width="150" height="auto">
 </div>
 
 - **RedisRacer**:
