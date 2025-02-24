@@ -1,70 +1,134 @@
-# Welcome to My Universe 🌌✨
+```console
+philiprutberg@MacBook-Pro ~ $
+philiprutberg@MacBook-Pro ~ $ cd /Users/philiprutberg
+philiprutberg@MacBook-Pro /Users/philiprutberg$ cat about-me.txt
+Hello, I'm Philip Rutberg.
 
-<div align="left">
-	<img src="https://raw.githubusercontent.com/rutbergphilip/rutbergphilip/main/logo.svg" alt="My Universe Icon" style="width: 256px; height: auto;">
-</div>
+A Software Engineer who enjoys working across the entire stack,
+solving complex challenges and building scalable systems with modern technologies.
 
-Hello, digital wanderer! I'm Philip Rutberg, the architect behind this corner of the GitHub galaxy, where TypeScript reigns supreme and ideas orbit around innovation. Ready for a journey through code and creativity?
+My main interest lies in Identity and Access Management (IAM), where I design secure authentication,
+authorization, and access control solutions while continually expanding my expertise.
 
-## About the Architect 🛸
+Learn more at: https://philiprutberg.com/
 
-I'm a Software Engineer, TypeScript enthusiast, and tech visionary. I craft digital experiences that are out of this world. Beyond the code, I'm a puzzle solver in the realm of logic and an explorer of the digital unknown.
+philiprutberg@MacBook-Pro /Users/philiprutberg$ ls -l
+drwxr-xr-x  5 philiprutberg  staff   160 Feb 23 2025 Portfolio
+drwxr-xr-x  7 philiprutberg  staff   224 Feb 23 2025 Projects
+drwxr-xr-x  3 philiprutberg  staff    96 Feb 23 2025 Experience
+drwxr-xr-x  2 philiprutberg  staff    64 Feb 23 2025 Education
 
-### 🚀 Quick Stats
+philiprutberg@MacBook-Pro /Users/philiprutberg$ cd Projects
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ ls
+ProjectFoxxy    RedisRacer    WoWCollector    BloodlustBoosting    blocket.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutbergphilip&show_icons=true&theme=radical)
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ echo "Let's take a look at some notable projects of mine :)"
+Let's take a look at some notable projects of mine :)
 
-## Featured Projects 🌠
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ tree
+zsh: command not found: tree
 
-Embark on a voyage through my most stellar projects:
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ brew install tree
+############ 12.0%
+==> Fetching tree
+==> Downloading https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:ccfac896234e1c63841b421873387c407f375af7e6db54abea549d24e3c69589
+#################################################################################################################################################################################### 100.0%
 
-- **WoW Collector**:
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ tree -L 2
+.
+├── ProjectFoxxy
+│   ├── server
+│   ├── src
+│   ├── README.md
+│   ├── nuxt.config.ts
+│   ├── package.json
+│   └── tsconfig.json
+├── RedisRacer
+│   ├── src
+│   ├── LICENSE
+│   ├── README.md
+│   ├── docker-compose.yml
+│   └── package.json
+├── WoWCollector
+│   ├── .github/workflows
+│   ├── back-end
+│   ├── development
+│   ├── docs
+│   ├── front-end
+│   ├── integration
+│   ├── scripts
+│   ├── README.md
+│   └── version.txt
+├── BloodlustBoosting
+│   ├── events
+│   ├── interactions
+│   ├── src
+│   ├── utils
+│   ├── README.md
+│   ├── index.js
+│   ├── package.json
+└── blocket.js
+    ├── .github/workflows
+    ├── lib
+    ├── LICENSE
+    ├── README.md
+    └── package.json
 
-A tracking tool for World of Warcraft collectables.
-
-<div align="center">
-	    <img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/wowcollector_logo_icon_transparent.png" width="150" height="auto">
-</div>
-
-- **RedisRacer**:
-
-A benchmarking tool to test the performance between the two most popular Nodejs Redis libraries.
-
-<div align="center">
-	<br/>
-	<br/>
-	<br/>
-	<a href="https://github.com/rutbergphilip/RedisRacer"><img src="https://github.com/rutbergphilip/RedisRacer/blob/main/logo_transparent.png?raw=true" width="180" alt="project-logo"></a>
-	<br/>
-	<br/>
-	<br/>
-</div>
-
-- **Project Foxxy**:
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ cat ProjectFoxxy/README.md
+# Project Foxxy
 
 A custom built scheduling solution with an admin dashboard for raid management and discord bot for user signups.
+See: https://projectfoxxy.eu/
 
-<div align="center">
-    <a href="https://projectfoxxy.eu/"><img src="https://github.com/rutbergphilip/rutbergphilip/blob/main/FoxxyLogo.png" width="150" height="auto"></a>
-</div>
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ cat RedisRacer/README.md
+# RedisRacer
 
-- **Bloodlust Boosting**:
- 
+A benchmarking tool to test the performance between the two most popular Node.js Redis libraries.
+Learn more: https://github.com/rutbergphilip/RedisRacer
+
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ cat WoWCollector/README.md
+# WoW Collector
+
+A tracking tool for World of Warcraft collectables.
+Learn more: https://philiprutberg.com/projects
+
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ cat BloodlustBoosting/README.md
+# Bloodlust Boosting
+
 Scandinavia's former largest World of Warcraft boosting community.
+Discontinued as of 2022.
+Learn more: https://philiprutberg.com/projects
 
-*Discontinued as of 2022.*
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects$ cat blocket.js/README.md
+# blocket.js
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/rutbergphilip/rutbergphilip/main/blb.gif" width="150" height="auto" alt="Bloodlust Boosting logo">
-</div>
+A NodeJS API wrapper for Blocket.se's unofficial API,
+fetching and processing data from Sweden's leading marketplace.
+Learn more: https://github.com/rutbergphilip/blocket.js
 
-## Let's Connect! 📡
+philiprutberg@MacBook-Pro /Users/philiprutberg/Projects/blocket.js$ cd ... && ls
+Portfolio    Project    Experience    Education
 
-The universe is vast, but connecting is just a click away. Join me on my adventures:
+philiprutberg@MacBook-Pro /Users/philiprutberg$ nvim connect.md
+# Let's connect! 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/philiprutberg/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rutbergphilip/)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/rutbergphilip/)
+Whether you want to collaborate, share knowledge, or just have a chat, I'm always happy to connect!
 
-Thank you for exploring my universe. Stay curious, and keep coding!
+Find me here:
+🔗 [LinkedIn](https://linkedin.com/in/philiprutberg/)
+📸 [Instagram](https://instagram.com/rutbergphilip/)
+💡 [LeetCode](https://leetcode.com/rutbergphilip/)
+.
+.
+.
+.
+.
+.
+:wq
 
+philiprutberg@MacBook-Pro /Users/philiprutberg$ echo "Thanks for stopping by!"
+Thanks for stopping by!
+
+philiprutberg@MacBook-Pro /Users/philiprutberg$ exit
+logout
+```
