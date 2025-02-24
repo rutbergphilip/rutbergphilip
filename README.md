@@ -42,35 +42,25 @@ philiprutberg@MacBook-Pro ~/Projects$ tree -L 2
 │   ├── README.md
 │   ├── nuxt.config.ts
 │   ├── package.json
-│   └── tsconfig.json
 ├── RedisRacer
 │   ├── src
-│   ├── LICENSE
 │   ├── README.md
 │   ├── docker-compose.yml
 │   └── package.json
 ├── WoWCollector
 │   ├── .github/workflows
 │   ├── back-end
-│   ├── development
-│   ├── docs
 │   ├── front-end
-│   ├── integration
-│   ├── scripts
 │   ├── README.md
-│   └── version.txt
 ├── BloodlustBoosting
 │   ├── events
 │   ├── interactions
 │   ├── src
-│   ├── utils
 │   ├── README.md
-│   ├── index.js
 │   ├── package.json
 └── blocket.js
     ├── .github/workflows
     ├── lib
-    ├── LICENSE
     ├── README.md
     └── package.json
 
