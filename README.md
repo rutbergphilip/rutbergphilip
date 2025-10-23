@@ -6,7 +6,6 @@
 [![Website](https://img.shields.io/badge/🌐-philiprutberg.com-0A66C2?style=flat-square)](https://philiprutberg.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rutbergphilip-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/philiprutberg/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rutbergphilip-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rutbergphilip/)
-[![Instagram](https://img.shields.io/badge/Instagram-rutbergphilip-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rutbergphilip/)
 
 </div>
 
@@ -17,8 +16,6 @@
 Software Engineer passionate about building **scalable systems** across the entire stack. I thrive on solving complex challenges and architecting solutions with modern technologies.
 
 Currently working at **AimoPark** in Sweden, where I contribute to building innovative parking solutions.
-
-> 🔑 *Fine-grained permissions, 😎 coarse-grained humor.*
 
 ---
 
@@ -32,37 +29,6 @@ My primary expertise and passion lies in **IAM** (Identity and Access Management
 - 📊 **Security Architecture** - Building resilient and secure systems
 
 I'm continuously expanding my expertise in this domain, staying current with best practices and emerging patterns in identity and security.
-
----
-
-## 🛠️ Technology Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
@@ -113,7 +79,6 @@ I'm always open to collaborating on interesting projects, discussing technology,
 - 🌐 Website: [philiprutberg.com](https://philiprutberg.com/)
 - 💼 LinkedIn: [linkedin.com/in/philiprutberg](https://linkedin.com/in/philiprutberg/)
 - 💻 LeetCode: [leetcode.com/rutbergphilip](https://leetcode.com/rutbergphilip/)
-- 📸 Instagram: [@rutbergphilip](https://instagram.com/rutbergphilip/)
 
 ---
 
