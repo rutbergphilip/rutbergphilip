@@ -1,124 +1,124 @@
-```console
-philiprutberg@MacBook-Pro ~ $
-philiprutberg@MacBook-Pro ~ $ ls -l
--rw-r--r--  1 philiprutberg  staff   512 Feb 23 2025 about-me.txt
-drwxr-xr-x  4 philiprutberg  staff   160 Jun 06 2024 Portfolio
-drwxr-xr-x  7 philiprutberg  staff   224 Feb 10 2025 Projects
-drwxr-xr-x  7 philiprutberg  staff    96 Dec 15 2024 Experience
-drwxr-xr-x  5 philiprutberg  staff    64 Dec 12 2024 Education
+<div align="center">
 
-philiprutberg@MacBook-Pro ~ $ cat about-me.txt
-Hello, I'm Philip Rutberg.
+# Philip Rutberg
+### Software Engineer | Full-Stack Developer
 
-A Software Engineer who enjoys working across the entire stack,
-solving complex challenges and building scalable systems with modern technologies.
+[![Website](https://img.shields.io/badge/🌐-philiprutberg.com-0A66C2?style=flat-square)](https://philiprutberg.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rutbergphilip-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/philiprutberg/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rutbergphilip-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rutbergphilip/)
+[![Instagram](https://img.shields.io/badge/Instagram-rutbergphilip-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rutbergphilip/)
 
-My main interest lies in Identity and Access Management (IAM), where I design secure authentication,
-authorization, and access control solutions while continually expanding my expertise.
+</div>
 
-Learn more at: https://philiprutberg.com/
+---
 
-philiprutberg@MacBook-Pro ~ $ cd Projects
-philiprutberg@MacBook-Pro ~/Projects$ ls
-ProjectFoxxy    RedisRacer    WoWCollector    BloodlustBoosting    blocket.js
+## 👋 About
 
-philiprutberg@MacBook-Pro ~/Projects$ echo "Let's take a look at some notable projects of mine :)"
-Let's take a look at some notable projects of mine :)
+Software Engineer passionate about building **scalable systems** across the entire stack. I thrive on solving complex challenges and architecting solutions with modern technologies.
 
-philiprutberg@MacBook-Pro ~/Projects$ tree -L 2
-zsh: command not found: tree
+Currently working at **AimoPark** in Sweden, where I contribute to building innovative parking solutions.
 
-philiprutberg@MacBook-Pro ~/Projects$ brew install tree
-############ 12.0%
-==> Fetching tree
-==> Downloading https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:ccfac896234e1c63841b421873387c407f375af7e6db54abea549d24e3c69589
-#################################################################################################################################################################################### 100.0%
+> 🔑 *Fine-grained permissions, 😎 coarse-grained humor.*
 
-philiprutberg@MacBook-Pro ~/Projects$ tree -L 2
-.
-├── ProjectFoxxy
-│   ├── server
-│   ├── src
-│   ├── README.md
-│   ├── nuxt.config.ts
-│   ├── package.json
-├── RedisRacer
-│   ├── src
-│   ├── README.md
-│   ├── docker-compose.yml
-│   └── package.json
-├── WoWCollector
-│   ├── .github/workflows
-│   ├── back-end
-│   ├── front-end
-│   ├── README.md
-├── BloodlustBoosting
-│   ├── events
-│   ├── interactions
-│   ├── src
-│   ├── README.md
-│   ├── package.json
-└── blocket.js
-    ├── .github/workflows
-    ├── lib
-    ├── README.md
-    └── package.json
+---
 
-philiprutberg@MacBook-Pro ~/Projects$ cat ProjectFoxxy/README.md
-# Project Foxxy
+## 🎯 Core Focus: Identity & Access Management
 
-A custom built scheduling solution with an admin dashboard for raid management and discord bot for user signups.
-See: https://projectfoxxy.eu/
+My primary expertise and passion lies in **IAM** (Identity and Access Management), where I design and implement:
 
-philiprutberg@MacBook-Pro ~/Projects$ cat RedisRacer/README.md
-# RedisRacer
+- 🔐 **Secure Authentication Systems** - Modern auth flows and protocols
+- 🛡️ **Authorization & Access Control** - Fine-grained permission models
+- 🔑 **Identity Solutions** - User management and identity federation
+- 📊 **Security Architecture** - Building resilient and secure systems
 
-A benchmarking tool to test the performance between the two most popular Node.js Redis libraries.
-Learn more: https://github.com/rutbergphilip/RedisRacer
+I'm continuously expanding my expertise in this domain, staying current with best practices and emerging patterns in identity and security.
 
-philiprutberg@MacBook-Pro ~/Projects$ cat WoWCollector/README.md
-# WoW Collector
+---
 
-A tracking tool for World of Warcraft collectables.
-Learn more: https://philiprutberg.com/projects
+## 🛠️ Technology Stack
 
-philiprutberg@MacBook-Pro ~/Projects$ cat BloodlustBoosting/README.md
-# Bloodlust Boosting
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-Scandinavia's former largest World of Warcraft boosting community.
-Discontinued as of 2022.
-Learn more: https://philiprutberg.com/projects
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-philiprutberg@MacBook-Pro ~/Projects$ cat blocket.js/README.md
-# blocket.js
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-A NodeJS API wrapper for Blocket.se's unofficial API,
-fetching and processing data from Sweden's leading marketplace.
-Learn more: https://github.com/rutbergphilip/blocket.js
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
-philiprutberg@MacBook-Pro ~/Projects/blocket.js$ cd ... && ls
-Portfolio    Project    Experience    Education
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-philiprutberg@MacBook-Pro ~ $ nvim connect.md
-# Let's connect! 🚀
+---
 
-Whether you want to collaborate, share knowledge, or just have a chat, I'm always happy to connect!
+## 🚀 Featured Projects
 
-Find me here:
-🔗 [LinkedIn](https://linkedin.com/in/philiprutberg/)
-📸 [Instagram](https://instagram.com/rutbergphilip/)
-💡 [LeetCode](https://leetcode.com/rutbergphilip/)
-.
-.
-.
-.
-.
-.
-:wq
+### 📦 [blocket.js](https://github.com/rutbergphilip/blocket.js)
+![npm](https://img.shields.io/npm/v/blocket.js?style=flat-square)
+![npm downloads](https://img.shields.io/npm/dm/blocket.js?style=flat-square)
 
-philiprutberg@MacBook-Pro ~ $ echo "Thanks for stopping by!"
-Thanks for stopping by!
+A user-friendly wrapper for Blocket.se's unofficial API, enabling easy integration with Sweden's leading marketplace. Built with TypeScript for type safety and developer experience.
 
-philiprutberg@MacBook-Pro ~ $ exit
-logout
-```
+### 🔍 [market-monitor](https://github.com/rutbergphilip/market-monitor)
+![Stars](https://img.shields.io/github/stars/rutbergphilip/market-monitor?style=flat-square)
+
+Monitor Blocket listings effortlessly with instant notifications delivered via Discord or email. Never miss a deal again with real-time alerts for new ads matching your criteria.
+
+### ⚡ [RedisRacer](https://github.com/rutbergphilip/RedisRacer)
+![Stars](https://img.shields.io/github/stars/rutbergphilip/RedisRacer?style=flat-square)
+
+Performance benchmarking tool comparing ioredis and node-redis - the two most popular Node.js Redis libraries. Helping developers make informed decisions about Redis client selection.
+
+### 🎮 [Project Foxxy](https://projectfoxxy.eu/)
+Custom-built scheduling solution with an admin dashboard for raid management and Discord bot integration for user signups. Streamlining World of Warcraft guild operations.
+
+### 🏆 [WoW Collector](https://philiprutberg.com/projects)
+Comprehensive tracking tool for World of Warcraft collectables. Helping players track achievements, mounts, pets, and more across their characters.
+
+### 🛡️ Bloodlust Boosting
+Scandinavia's former largest World of Warcraft boosting community (discontinued 2022). Managed complex scheduling, user management, and payment processing systems.
+
+---
+
+## 💡 Professional Interests
+
+- Building secure and scalable authentication systems
+- API design and architecture
+- Developer tooling and libraries
+- Performance optimization and benchmarking
+- Full-stack web development with modern frameworks
+- Cloud infrastructure and DevOps practices
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing technology, or just connecting with fellow developers!
+
+- 🌐 Website: [philiprutberg.com](https://philiprutberg.com/)
+- 💼 LinkedIn: [linkedin.com/in/philiprutberg](https://linkedin.com/in/philiprutberg/)
+- 💻 LeetCode: [leetcode.com/rutbergphilip](https://leetcode.com/rutbergphilip/)
+- 📸 Instagram: [@rutbergphilip](https://instagram.com/rutbergphilip/)
+
+---
+
+<div align="center">
+
+*Building secure, scalable, and user-centric solutions - one commit at a time.*
+
+</div>
