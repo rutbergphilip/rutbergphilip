@@ -1,89 +1,177 @@
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     ██████╗ ██╗   ██╗████████╗██████╗ ███████╗██████╗  ██████╗              ║
+║     ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔════╝              ║
+║     ██████╔╝██║   ██║   ██║   ██████╔╝█████╗  ██████╔╝██║  ███╗             ║
+║     ██╔══██╗██║   ██║   ██║   ██╔══██╗██╔══╝  ██╔══██╗██║   ██║             ║
+║     ██║  ██║╚██████╔╝   ██║   ██████╔╝███████╗██║  ██║╚██████╔╝             ║
+║     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝              ║
+║                                                                              ║
+║                    [ IDENTITY VERIFIED • ACCESS GRANTED ]                    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-# Philip Rutberg
-### Software Engineer | Full-Stack Developer
-
-[![Website](https://img.shields.io/badge/🌐-philiprutberg.com-0A66C2?style=flat-square)](https://philiprutberg.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rutbergphilip-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/philiprutberg/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rutbergphilip-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rutbergphilip/)
+[![Website](https://img.shields.io/badge/↗_PORTFOLIO-philiprutberg.com-00ff88?style=for-the-badge&labelColor=0d1117)](https://philiprutberg.com/)
+[![LinkedIn](https://img.shields.io/badge/↗_NETWORK-LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117)](https://linkedin.com/in/philiprutberg/)
+[![LeetCode](https://img.shields.io/badge/↗_ALGORITHMS-LeetCode-00ff88?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117)](https://leetcode.com/rutbergphilip/)
 
 </div>
 
----
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM://profile/whoami                                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-## 👋 About
+```js
+const philip = {
+    role: "Software Engineer",
+    location: "Sweden 🇸🇪",
+    company: "AimoPark",
 
-Software Engineer passionate about building **scalable systems** across the entire stack. I thrive on solving complex challenges and architecting solutions with modern technologies.
+    focus: [
+        "Identity & Access Management",
+        "Secure Authentication Systems",
+        "Full-Stack Architecture"
+    ],
 
-Currently working at **AimoPark** in Sweden, where I contribute to building innovative parking solutions.
+    currently: "Building innovative parking solutions",
 
----
+    philosophy: "Security is not a feature—it's the foundation."
+};
+```
 
-## 🎯 Core Focus: Identity & Access Management
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM://security/expertise                                                │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-My primary expertise and passion lies in **IAM** (Identity and Access Management), where I design and implement:
+    ╭──────────────────────────────────────────────────────────────────╮
+    │                                                                  │
+    │   🔐  AUTHENTICATION          ████████████████████░░░░  85%     │
+    │   🛡️  AUTHORIZATION           █████████████████████░░░  90%     │
+    │   🔑  IDENTITY FEDERATION     ██████████████████░░░░░░  75%     │
+    │   🏗️  SECURITY ARCHITECTURE   █████████████████████░░░  88%     │
+    │                                                                  │
+    ╰──────────────────────────────────────────────────────────────────╯
+```
 
-- 🔐 **Secure Authentication Systems** - Modern auth flows and protocols
-- 🛡️ **Authorization & Access Control** - Fine-grained permission models
-- 🔑 **Identity Solutions** - User management and identity federation
-- 📊 **Security Architecture** - Building resilient and secure systems
+<br>
 
-I'm continuously expanding my expertise in this domain, staying current with best practices and emerging patterns in identity and security.
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM://modules/deployed                                                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### ▸ [blocket.js](https://github.com/rutbergphilip/blocket.js)
+```
+STATUS: ACTIVE
+TYPE:   NPM Package
+```
+![npm](https://img.shields.io/npm/v/blocket.js?style=flat-square&color=00ff88&labelColor=0d1117)
+![downloads](https://img.shields.io/npm/dm/blocket.js?style=flat-square&color=00ff88&labelColor=0d1117)
 
-### 📦 [blocket.js](https://github.com/rutbergphilip/blocket.js)
-![npm](https://img.shields.io/npm/v/blocket.js?style=flat-square)
-![npm downloads](https://img.shields.io/npm/dm/blocket.js?style=flat-square)
+TypeScript wrapper for Blocket.se's API.
+Sweden's leading marketplace integration.
 
-A user-friendly wrapper for Blocket.se's unofficial API, enabling easy integration with Sweden's leading marketplace. Built with TypeScript for type safety and developer experience.
+</td>
+<td width="50%" valign="top">
 
-### 🔍 [market-monitor](https://github.com/rutbergphilip/market-monitor)
-![Stars](https://img.shields.io/github/stars/rutbergphilip/market-monitor?style=flat-square)
+### ▸ [market-monitor](https://github.com/rutbergphilip/market-monitor)
+```
+STATUS: ACTIVE
+TYPE:   Monitoring Tool
+```
+![stars](https://img.shields.io/github/stars/rutbergphilip/market-monitor?style=flat-square&color=00ff88&labelColor=0d1117)
 
-Monitor Blocket listings effortlessly with instant notifications delivered via Discord or email. Never miss a deal again with real-time alerts for new ads matching your criteria.
+Real-time listing surveillance.
+Discord & email alert system.
 
-### ⚡ [RedisRacer](https://github.com/rutbergphilip/RedisRacer)
-![Stars](https://img.shields.io/github/stars/rutbergphilip/RedisRacer?style=flat-square)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Performance benchmarking tool comparing ioredis and node-redis - the two most popular Node.js Redis libraries. Helping developers make informed decisions about Redis client selection.
+### ▸ [RedisRacer](https://github.com/rutbergphilip/RedisRacer)
+```
+STATUS: ACTIVE
+TYPE:   Benchmark Suite
+```
+![stars](https://img.shields.io/github/stars/rutbergphilip/RedisRacer?style=flat-square&color=00ff88&labelColor=0d1117)
 
-### 🎮 [Project Foxxy](https://projectfoxxy.eu/)
-Custom-built scheduling solution with an admin dashboard for raid management and Discord bot integration for user signups. Streamlining World of Warcraft guild operations.
+Performance analysis: ioredis vs node-redis.
+Data-driven client selection.
 
-### 🏆 [WoW Collector](https://philiprutberg.com/projects)
-Comprehensive tracking tool for World of Warcraft collectables. Helping players track achievements, mounts, pets, and more across their characters.
+</td>
+<td width="50%" valign="top">
 
-### 🛡️ Bloodlust Boosting
-Scandinavia's former largest World of Warcraft boosting community (discontinued 2022). Managed complex scheduling, user management, and payment processing systems.
+### ▸ [Project Foxxy](https://projectfoxxy.eu/)
+```
+STATUS: ACTIVE
+TYPE:   Full-Stack App
+```
 
----
+Guild management platform.
+Scheduling • Admin Dashboard • Discord Bot
 
-## 💡 Professional Interests
+</td>
+</tr>
+</table>
 
-- Building secure and scalable authentication systems
-- API design and architecture
-- Developer tooling and libraries
-- Performance optimization and benchmarking
-- Full-stack web development with modern frameworks
-- Cloud infrastructure and DevOps practices
+<details>
+<summary><b>▸ EXPAND: Archived Projects</b></summary>
+<br>
 
----
+| Project | Description | Status |
+|---------|-------------|--------|
+| **WoW Collector** | Achievement & collectables tracker | `MAINTAINED` |
+| **Bloodlust Boosting** | Scandinavia's largest WoW community | `DISCONTINUED 2022` |
 
-## 📫 Let's Connect
+</details>
 
-I'm always open to collaborating on interesting projects, discussing technology, or just connecting with fellow developers!
+<br>
 
-- 🌐 Website: [philiprutberg.com](https://philiprutberg.com/)
-- 💼 LinkedIn: [linkedin.com/in/philiprutberg](https://linkedin.com/in/philiprutberg/)
-- 💻 LeetCode: [leetcode.com/rutbergphilip](https://leetcode.com/rutbergphilip/)
-
----
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM://stats/activity                                                    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-*Building secure, scalable, and user-centric solutions - one commit at a time.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutbergphilip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&hide=contribs)
 
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM://connection/establish                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+    ╭────────────────────────────────────────────────────────────────╮
+    │                                                                │
+    │   > Open to collaborations on security & auth systems          │
+    │   > Interested in API design & developer tooling               │
+    │   > Always exploring cloud infrastructure patterns             │
+    │                                                                │
+    │   PING: hello@philiprutberg.com                                │
+    │                                                                │
+    ╰────────────────────────────────────────────────────────────────╯
+
+─────────────────────────────────────────────────────────────────────────────
+                    [ SESSION ACTIVE • SECURE CONNECTION ]
+─────────────────────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+<sub>Building secure, scalable systems — one authenticated request at a time.</sub>
 </div>
