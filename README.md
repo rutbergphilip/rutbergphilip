@@ -1,16 +1,16 @@
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
 ║     ██████╗ ██╗   ██╗████████╗██████╗ ███████╗██████╗  ██████╗              ║
 ║     ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔════╝              ║
 ║     ██████╔╝██║   ██║   ██║   ██████╔╝█████╗  ██████╔╝██║  ███╗             ║
 ║     ██╔══██╗██║   ██║   ██║   ██╔══██╗██╔══╝  ██╔══██╗██║   ██║             ║
 ║     ██║  ██║╚██████╔╝   ██║   ██████╔╝███████╗██║  ██║╚██████╔╝             ║
 ║     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝              ║
-║                                                                              ║
-║                    [ IDENTITY VERIFIED • ACCESS GRANTED ]                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+║                                                                             ║
+║                   [ IDENTITY VERIFIED • ACCESS GRANTED ]                    ║
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -52,10 +52,10 @@ const philip = {
 
     ╭──────────────────────────────────────────────────────────────────╮
     │                                                                  │
-    │   🔐  AUTHENTICATION          ████████████████████░░░░  85%     │
-    │   🛡️  AUTHORIZATION           █████████████████████░░░  90%     │
-    │   🔑  IDENTITY FEDERATION     ██████████████████░░░░░░  75%     │
-    │   🏗️  SECURITY ARCHITECTURE   █████████████████████░░░  88%     │
+    │   🔐  AUTHENTICATION          ████████████████████░░░░  85%      │
+    │   🛡️  AUTHORIZATION           █████████████████████░░░  90%      │
+    │   🔑  IDENTITY FEDERATION     ██████████████████░░░░░░  75%      │
+    │   🏗️  SECURITY ARCHITECTURE   █████████████████████░░░  88%      │
     │                                                                  │
     ╰──────────────────────────────────────────────────────────────────╯
 ```
@@ -72,6 +72,19 @@ const philip = {
 <tr>
 <td width="50%" valign="top">
 
+### ▸ [nuxt-safe-action](https://github.com/rutbergphilip/nuxt-safe-action)
+```
+STATUS: ACTIVE
+TYPE:   Nuxt Module
+```
+![npm](https://img.shields.io/npm/v/nuxt-safe-action?style=flat-square&color=00ff88&labelColor=0d1117)
+
+Type-safe server actions for Nuxt.
+End-to-end validation & composable middleware.
+
+</td>
+<td width="50%" valign="top">
+
 ### ▸ [blocket.js](https://github.com/rutbergphilip/blocket.js)
 ```
 STATUS: ACTIVE
@@ -84,6 +97,8 @@ TypeScript wrapper for Blocket.se's API.
 Sweden's leading marketplace integration.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ▸ [market-monitor](https://github.com/rutbergphilip/market-monitor)
@@ -97,8 +112,6 @@ Real-time listing surveillance.
 Discord & email alert system.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ▸ [RedisRacer](https://github.com/rutbergphilip/RedisRacer)
@@ -112,6 +125,8 @@ Performance analysis: ioredis vs node-redis.
 Data-driven client selection.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ▸ [Project Foxxy](https://projectfoxxy.eu/)
@@ -157,19 +172,19 @@ Scheduling • Admin Dashboard • Discord Bot
 │  SYSTEM://connection/establish                                              │
 └─────────────────────────────────────────────────────────────────────────────┘
 
-    ╭────────────────────────────────────────────────────────────────╮
-    │                                                                │
-    │   > Open to collaborations on security & auth systems          │
-    │   > Interested in API design & developer tooling               │
-    │   > Always exploring cloud infrastructure patterns             │
-    │                                                                │
-    │   PING: hello@philiprutberg.com                                │
-    │                                                                │
-    ╰────────────────────────────────────────────────────────────────╯
+    ╭──────────────────────────────────────────────────────────────────╮
+    │                                                                  │
+    │   > Open to collaborations on security & auth systems            │
+    │   > Interested in API design & developer tooling                 │
+    │   > Always exploring cloud infrastructure patterns               │
+    │                                                                  │
+    │   PING: hello@philiprutberg.com                                  │
+    │                                                                  │
+    ╰──────────────────────────────────────────────────────────────────╯
 
-─────────────────────────────────────────────────────────────────────────────
-                    [ SESSION ACTIVE • SECURE CONNECTION ]
-─────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────
+                    [ SESSION ACTIVE • SECURE CONNECTION ]                     
+───────────────────────────────────────────────────────────────────────────────
 ```
 
 <div align="center">
