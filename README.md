@@ -37,8 +37,6 @@ const philip = {
     ],
 
     currently: "Building innovative parking solutions",
-
-    philosophy: "Security is not a feature—it's the foundation."
 };
 ```
 
