@@ -181,7 +181,3 @@ Data-driven client selection.
     │                                                                  │
     ╰──────────────────────────────────────────────────────────────────╯
 ```
-
-<div align="center">
-<sub>Building secure, scalable systems — one authenticated request at a time.</sub>
-</div>
