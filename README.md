@@ -15,7 +15,6 @@
 
 [![Website](https://img.shields.io/badge/↗_PORTFOLIO-philiprutberg.com-00ff88?style=for-the-badge&labelColor=0d1117)](https://philiprutberg.com/)
 [![LinkedIn](https://img.shields.io/badge/↗_NETWORK-LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117)](https://linkedin.com/in/philiprutberg/)
-[![LeetCode](https://img.shields.io/badge/↗_ALGORITHMS-LeetCode-00ff88?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117)](https://leetcode.com/rutbergphilip/)
 
 </div>
 
@@ -133,7 +132,7 @@ Data-driven client selection.
 | Project | Description | Status |
 |---------|-------------|--------|
 | **Project Foxxy** | Guild management platform — scheduling, admin dashboard, Discord bot | `DISCONTINUED` |
-| **WoW Collector** | Achievement & collectables tracker | `MAINTAINED` |
+| **WoW Collector** | Achievement & collectables tracker | `DISCONTINUED` |
 | **Bloodlust Boosting** | Scandinavia's largest WoW community | `DISCONTINUED 2022` |
 
 </details>
@@ -162,8 +161,6 @@ Data-driven client selection.
     │   > Open to collaborations on security & auth systems            │
     │   > Interested in API design & developer tooling                 │
     │   > Always exploring cloud infrastructure patterns               │
-    │                                                                  │
-    │   PING: hello@philiprutberg.com                                  │
     │                                                                  │
     ╰──────────────────────────────────────────────────────────────────╯
 ```
