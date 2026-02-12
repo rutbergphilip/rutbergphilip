@@ -124,20 +124,6 @@ Data-driven client selection.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ [Project Foxxy](https://projectfoxxy.eu/)
-```
-STATUS: ACTIVE
-TYPE:   Full-Stack App
-```
-
-Guild management platform.
-Scheduling • Admin Dashboard • Discord Bot
-
-</td>
-</tr>
 </table>
 
 <details>
@@ -146,6 +132,7 @@ Scheduling • Admin Dashboard • Discord Bot
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| **Project Foxxy** | Guild management platform — scheduling, admin dashboard, Discord bot | `DISCONTINUED` |
 | **WoW Collector** | Achievement & collectables tracker | `MAINTAINED` |
 | **Bloodlust Boosting** | Scandinavia's largest WoW community | `DISCONTINUED 2022` |
 
