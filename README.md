@@ -26,7 +26,7 @@
 
 ```js
 const philip = {
-    role: "Software Engineer",
+    role: "Lead Software Engineer",
     location: "Sweden 🇸🇪",
     company: "AimoPark",
 
