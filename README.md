@@ -65,6 +65,25 @@ const philip = {
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### ▸ [Pathfolio](https://pathfolio.io)
+```
+STATUS: ACTIVE
+TYPE:   SaaS Platform
+STACK:  Nuxt 4 · Vue 3 · Supabase · Redis · OpenAI
+```
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff88?style=flat-square&labelColor=0d1117)
+![Nuxt](https://img.shields.io/badge/Nuxt_4-00ff88?style=flat-square&labelColor=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-00ff88?style=flat-square&labelColor=0d1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-00ff88?style=flat-square&labelColor=0d1117)
+
+AI-powered resume builder, cover letter generator & job application tracker.
+Microservice architecture with 6 services, ATS scoring pipeline, real-time PDF export, and multi-view job tracking.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ▸ [nuxt-safe-action](https://github.com/rutbergphilip/nuxt-safe-action)
