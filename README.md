@@ -7,9 +7,7 @@
      ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-Lead Software Engineer at [AimoPark](https://aimopark.io) · Sweden
-
-Mostly into auth, identity, and building things end-to-end. Day-to-day I'm working on parking infrastructure at AimoPark.
+Lead Software Engineer at [AimoPark](https://aimopark.se) · Sweden
 
 [![Website](https://img.shields.io/badge/philiprutberg.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://philiprutberg.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/philiprutberg/)
@@ -24,10 +22,10 @@ Mostly into auth, identity, and building things end-to-end. Day-to-day I'm worki
 
 **[Pathfolio](https://pathfolio.io)** — AI-powered resume builder, cover letter generator & job application tracker.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square)
-![Nuxt](https://img.shields.io/badge/Nuxt_4-0d1117?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 Microservice architecture with ATS scoring, real-time PDF export, and multi-view job tracking.
 
