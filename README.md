@@ -7,7 +7,7 @@
      ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-Lead Software Engineer at [AimoPark](https://aimopark.se) · Sweden
+Senior Software Engineer at [Svenska Spel](https://svenskaspel.se) · Sweden
 
 [![Website](https://img.shields.io/badge/philiprutberg.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://philiprutberg.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/philiprutberg/)
