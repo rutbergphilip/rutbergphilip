@@ -72,6 +72,16 @@ ioredis vs node-redis benchmarks for data-driven client selection.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[NoteIt](https://github.com/rutbergphilip/noteit)** — Fast, keyboard-first notes for macOS, with menu bar capture and optional end-to-end encrypted sync to storage you own.
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-14%2B-000000?style=flat-square&logo=apple&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 <details>
