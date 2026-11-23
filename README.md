@@ -20,14 +20,10 @@ Senior Software Engineer at [Svenska Spel](https://svenskaspel.se/tur) · Sweden
 <tr>
 <td colspan="2" valign="top">
 
-**[Pathfolio](https://pathfolio.io)** — AI-powered resume builder, cover letter generator & job application tracker.
+**[NoteIt](https://github.com/rutbergphilip/noteit)** — Fast, keyboard-first notes for macOS, with menu bar capture and optional end-to-end encrypted sync to storage you own.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-Microservice architecture with ATS scoring, real-time PDF export, and multi-view job tracking.
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-14%2B-000000?style=flat-square&logo=apple&logoColor=white)
 
 </td>
 </tr>
@@ -72,16 +68,6 @@ ioredis vs node-redis benchmarks for data-driven client selection.
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[NoteIt](https://github.com/rutbergphilip/noteit)** — Fast, keyboard-first notes for macOS, with menu bar capture and optional end-to-end encrypted sync to storage you own.
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-14%2B-000000?style=flat-square&logo=apple&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 <details>
@@ -89,6 +75,7 @@ ioredis vs node-redis benchmarks for data-driven client selection.
 
 | Project | Description |
 |---------|-------------|
+| Pathfolio | AI resume builder, cover letter generator & job tracker |
 | Project Foxxy | Guild management — scheduling, admin dashboard, Discord bot |
 | WoW Collector | Achievement & collectables tracker |
 | Bloodlust Boosting | Scandinavia's largest WoW community (ended 2022) |
